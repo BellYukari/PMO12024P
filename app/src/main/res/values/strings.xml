@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PMO12024P</string>
+    <string name="IngresoNombre">ingrese su nombre</string>
+    <string name="IngreseApellido">ingrese su apellido</string>
+    <string name="IngreseEdad">ingrese su edad</string>
+
+    <string name="Formulario">formulario de ingreso</string>
+    <string name="IngreseCorreo">ingrese su correo</string>
+
 </resources>
